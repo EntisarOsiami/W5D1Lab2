@@ -12,6 +12,6 @@ setInterval(() => {
         .catch((error) => {
             console.error("Error fetching coffee image:", error);
         });
-}, 5000);
+}, 2000);
 
 
